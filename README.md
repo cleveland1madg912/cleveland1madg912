@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @cleveland1madg912
+- 👀 I’m interested in machine learning and AI.
+- 🌱 I’m currently learning Python.
